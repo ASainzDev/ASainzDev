@@ -13,7 +13,7 @@ public LinkedList<String> tecnologias = new LinkedList<>(
 "Angular", "HTML", "CSS", "Java", "SpringBoot", "JavaScript", "Git", "GitHub");
 
 // Hobbies
-public ArrayList<String> hobbies = new ArrayList<>("Programar", "Probar ideas nuevas", "Colaborar en Open Source");
+public ArrayList<String> hobbies = new ArrayList<>("Programar", "Wargames", "Boardgames", "Trance Music");
 
 public void presentarse() {
 System.out.println("Hola, soy " + this.name + ". Tratando de aprender un poco más cada día.");
