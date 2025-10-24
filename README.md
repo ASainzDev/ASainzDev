@@ -19,9 +19,10 @@ public void presentarse() {
 System.out.println("Hola, soy " + this.name + ". Tratando de aprender un poco más cada día.");
 }
 
-}
+```
+## }
 
-
+### Progreso Actual
 ---
 
 | **Habilidad**   | **Nivel**      | **Comentarios**             |
@@ -32,7 +33,7 @@ System.out.println("Hola, soy " + this.name + ". Tratando de aprender un poco m�
 
 ---
 
-## 🛠️ Tecnologías
+#### 🛠️ Tecnologías
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -40,7 +41,7 @@ System.out.println("Hola, soy " + this.name + ". Tratando de aprender un poco m�
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📫 Contacto
+##### 📫 Contacto
 
 - [LinkedIn](https://linkedin.com/in/aSainzJrDev)
 - [GitHub](https://github.com/aSainzDev)
